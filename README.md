@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ioan Ferencik
 - 👀 I’m interested in GIS, web-GIS, spatial analysis, geostatistics, remote sensing
-- 🌱 I’m currently learning rust
+- 🌱 I’m currently learning to deploy scalable geospatial services in the cloud
 - 💞️ I’m looking to collaborate on various open source projects
 - 📫 How to reach me ...
 
